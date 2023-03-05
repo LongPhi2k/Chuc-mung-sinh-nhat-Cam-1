@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://longphi2k.github.io/HPBD-Nguyen-2/";
+            window.location = "https://longphi2k.github.io/HPBDCam/";
           },
         });
       }
